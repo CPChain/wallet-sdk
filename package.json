@@ -1,0 +1,19 @@
+{
+  "name": "@cpchain-tools/wallet-sdk",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CPChain/wallet-sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CPChain/wallet-sdk/issues"
+  },
+  "homepage": "https://github.com/CPChain/wallet-sdk#readme"
+}
